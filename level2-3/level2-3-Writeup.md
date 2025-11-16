@@ -1,5 +1,3 @@
-Here’s a streamlined, professional-style version you can drop into your repo:
-
 ````markdown
 # Bandit Level 2 → Level 3 – Writeup
 
